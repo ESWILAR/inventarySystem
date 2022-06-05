@@ -132,7 +132,7 @@
 
                         </div>
 
-                        <!-- ENTRADA PARA LA CONTRASEÑA -->
+                        <!-- ENTRADA PARA LA CONTRASEÑA  -->
                         <div class="form-group">
                             <div class="input-group">
 
